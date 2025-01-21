@@ -2,7 +2,7 @@
 A real estate website build with reactjs and tailwindcss.
 
 # 💡About this project 
-In this project it consists of 1 parts. This website modern estate template for someone's done this job. You'll see landing page four menu, Home, About, Projects, Testimonials and last one Contact Us. I gave lots of information each part of menu. You can easily click and visit menu.
+In this project it consists of Front-end parts. This website modern estate template for someone's done this job. You'll see landing page four menu, Home, About, Projects, Testimonials and last one Contact Us. I gave lots of information each part of menu. You can easily click and visit menu.
 
 
 ## ⚡Technologies
